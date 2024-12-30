@@ -3,6 +3,8 @@ Monopoly Go! is a mobile adaptation of the classic Monopoly board game, develope
 Wikipedia
 The game combines traditional Monopoly elements with new features tailored for mobile gameplay, offering a single-player experience where players roll dice to advance on the board, accumulate wealth, and build structures across various themed worlds.
 
+<h2><a href="https://sites.google.com/view/monopoly-go-free-dice-no-verif/">LEARN MORE</a></h2>
+
 By March 2024, Monopoly Go! achieved significant commercial success, generating over $2 billion in revenue within ten months of its launch.
 Wikipedia
 This milestone underscores its popularity among mobile gamers.
